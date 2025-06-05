@@ -37,7 +37,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueloliveirahahn&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=3" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueloliveirahahn&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/migueloliveirahahn/migueloliveirahahn/output/github-contribution-grid-snake-dark.svg">
